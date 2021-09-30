@@ -12,7 +12,7 @@
 
 - Working on a Python crypto trading bot using machine learning
 - Learning Solidity and the theory behind developing smart contracts on blockchain
-    - My first NFT for being 1 of the first 200 to finish Buildspace's smart contract course
+    - My first NFT for completing Buildspace's smart contract course 😎 :
 <p align="left">
   <img src="https://lh3.googleusercontent.com/tTbVoW80HiFUiqWPodlWmT7HCCZg765Uq3vn8AwaatgOvlpLaaoiDuyU3cikt3J6lNtd2FFAKMQ7cWxDqfyfUWobnNRpvbP8AcaqxA=w600" width="200" title="hover text">
 </p>
