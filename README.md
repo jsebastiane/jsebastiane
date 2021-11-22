@@ -4,9 +4,8 @@
 
 ### What I am currently focused on 🤓
 
+- Working on a social game stats tracking app to release in December - It will initially track Warzone and Apex Legends data
 - Continuing to improve upon my Android development skills
-- Seeing how my Waybil B2B apps could be improved
-- Coming up with ideas for another project/app to build
 
 ### What I am doing on the side 🦾 🤖 
 
