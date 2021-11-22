@@ -5,7 +5,7 @@
 ### What I am currently focused on 🤓
 
 - Working on a social game stats tracking app to release in December - It will initially track Warzone and Apex Legends data
-- Continuing to improve upon my Android development skills
+- Freelancing for android and python projects (most recently a webscraper for the BBDO advertising agency)
 
 ### What I am doing on the side 🦾 🤖 
 
