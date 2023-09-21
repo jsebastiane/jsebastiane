@@ -4,7 +4,7 @@
 
 ### What I am currently focused on:
 
-- GPT notes app
+- GPT notes app called Brainstorm
 
 
 
