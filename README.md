@@ -4,9 +4,9 @@ I'm a passionate Android Developer based in London. Since I started Android app 
 
 🚀 ***Projects Highlights:***
 
-**Waybil**: My start-up project, a B2B marketplace app that focused on connecting small cornershops in Guatemala to nearby distributors
-**Min3r**: A comprehensive crypto news and data app that keeps enthusiasts updated on the latest trends.
-**Brainstorm**: Brainstorm seamlessly integrates chatGPT functionality into a notes app, bringing a unique blend of productivity and AI interaction.
+**- Waybil**: My start-up project, a B2B marketplace app that focused on connecting small cornershops in Guatemala to nearby distributors
+**- Min3r**: A comprehensive crypto news and data app that keeps enthusiasts updated on the latest trends.
+**- Brainstorm**: Brainstorm seamlessly integrates chatGPT functionality into a notes app, bringing a unique blend of productivity and AI interaction.
 
 🛠️ ***Tech Stack:***
 
