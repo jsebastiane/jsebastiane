@@ -10,7 +10,7 @@ I'm a passionate Android Developer based in London. Since I started Android app 
 
 🛠️ ***Tech Stack:***
 
-**Programming Languages**: Kotlin, Python, Java, Javascript
+**Programming Languages**: Kotlin, Python, Java, Javascript \
 **Tools**: Jetpack Libraries, MVVM, Views, Compose, Room, Retrofit, Coroutines, Firebase, GSON, Glide, Koin, Hilt, SQL Delight
 
 🌱 ***Constantly Learning:***
